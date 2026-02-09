@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# FizzBuzz – Lógica de Programação em Python
+ # FizzBuzz – Lógica de Programação em Python
 
 Este projeto é um exercício clássico de lógica de programação desenvolvido em Python, com o objetivo de praticar estruturas condicionais e laços de repetição.
 
@@ -34,6 +33,4 @@ O programa imprime números de **1 a 100**, seguindo as regras:
 
 Projeto desenvolvido como parte dos estudos em lógica de programação.
 =======
-# Desafio_FizzBuzz
 Exercício prático de lógica de programação utilizando Python.
->>>>>>> ec89a0a95785fcffcf3f1bcf6a570ef318a3ca9a
